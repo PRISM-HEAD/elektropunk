@@ -1,0 +1,4 @@
+
+
+sh -c "$(curl -fsSL https://raw.github.com/timeopochin/artix-dotfiles/master/setup-artix-dotfiles.sh)"
+
